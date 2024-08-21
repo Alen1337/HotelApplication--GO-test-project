@@ -1,6 +1,6 @@
 --Simple Backend API--
 
--Usage-
+Usage
 
 1. /api/v1/person?auth=Alen&room=312 - Gets the preson details in the room 321 but only if the authorization key is provided (TODO: and it is correct).
 
